@@ -1,0 +1,11 @@
+/media/hanzala/Ntfs System/StartUP/gala_record/build/linux/x64/debug/bundle/gala_record
+/media/hanzala/Ntfs System/StartUP/gala_record/build/linux/x64/debug/bundle/data/icudtl.dat
+/media/hanzala/Ntfs System/StartUP/gala_record/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/media/hanzala/Ntfs System/StartUP/gala_record/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/media/hanzala/Ntfs System/StartUP/gala_record/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/media/hanzala/Ntfs System/StartUP/gala_record/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/media/hanzala/Ntfs System/StartUP/gala_record/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/media/hanzala/Ntfs System/StartUP/gala_record/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/media/hanzala/Ntfs System/StartUP/gala_record/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/media/hanzala/Ntfs System/StartUP/gala_record/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/media/hanzala/Ntfs System/StartUP/gala_record/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json

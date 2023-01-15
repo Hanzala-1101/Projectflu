@@ -1,0 +1,28 @@
+# ninja log v5
+0	26904	0	/media/hanzala/Ntfs System/StartUP/gala_record/linux/flutter/ephemeral/libflutter_linux_gtk.so	9bf95cf2ff8f4309
+0	26904	0	/media/hanzala/Ntfs System/StartUP/gala_record/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	9bf95cf2ff8f4309
+0	26904	0	/media/hanzala/Ntfs System/StartUP/gala_record/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	9bf95cf2ff8f4309
+0	26904	0	/media/hanzala/Ntfs System/StartUP/gala_record/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	9bf95cf2ff8f4309
+0	26904	0	/media/hanzala/Ntfs System/StartUP/gala_record/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	9bf95cf2ff8f4309
+0	26904	0	/media/hanzala/Ntfs System/StartUP/gala_record/linux/flutter/ephemeral/flutter_linux/fl_engine.h	9bf95cf2ff8f4309
+0	26904	0	/media/hanzala/Ntfs System/StartUP/gala_record/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	9bf95cf2ff8f4309
+0	26904	0	/media/hanzala/Ntfs System/StartUP/gala_record/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	9bf95cf2ff8f4309
+0	26904	0	/media/hanzala/Ntfs System/StartUP/gala_record/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	9bf95cf2ff8f4309
+0	26904	0	/media/hanzala/Ntfs System/StartUP/gala_record/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	9bf95cf2ff8f4309
+0	26904	0	/media/hanzala/Ntfs System/StartUP/gala_record/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	9bf95cf2ff8f4309
+0	26904	0	/media/hanzala/Ntfs System/StartUP/gala_record/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	9bf95cf2ff8f4309
+0	26904	0	/media/hanzala/Ntfs System/StartUP/gala_record/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	9bf95cf2ff8f4309
+0	26904	0	/media/hanzala/Ntfs System/StartUP/gala_record/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	9bf95cf2ff8f4309
+0	26904	0	/media/hanzala/Ntfs System/StartUP/gala_record/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	9bf95cf2ff8f4309
+0	26904	0	/media/hanzala/Ntfs System/StartUP/gala_record/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	9bf95cf2ff8f4309
+0	26904	0	/media/hanzala/Ntfs System/StartUP/gala_record/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	9bf95cf2ff8f4309
+0	26904	0	/media/hanzala/Ntfs System/StartUP/gala_record/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	9bf95cf2ff8f4309
+0	26904	0	/media/hanzala/Ntfs System/StartUP/gala_record/linux/flutter/ephemeral/flutter_linux/fl_value.h	9bf95cf2ff8f4309
+0	26904	0	/media/hanzala/Ntfs System/StartUP/gala_record/linux/flutter/ephemeral/flutter_linux/fl_view.h	9bf95cf2ff8f4309
+0	26904	0	/media/hanzala/Ntfs System/StartUP/gala_record/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	9bf95cf2ff8f4309
+0	26904	0	flutter/_phony_	9bf95cf2ff8f4309
+26906	29750	1673200509606849320	CMakeFiles/gala_record.dir/flutter/generated_plugin_registrant.cc.o	5482882bc0bcd0b6
+26905	30192	1673200510054860612	CMakeFiles/gala_record.dir/main.cc.o	dfe8d59d77fba4e3
+26905	30205	1673200510066860914	CMakeFiles/gala_record.dir/my_application.cc.o	bcdd2bf41bfa0de4
+30205	30570	1673200510434870195	intermediates_do_not_run/gala_record	c81d65972c98b795
+30570	30907	0	CMakeFiles/install.util	4c896534b693fee
