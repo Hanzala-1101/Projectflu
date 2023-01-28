@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import './pages/home.dart';
 
 void main() {
   runApp(const MyApp());
@@ -35,16 +36,7 @@ class _MyHomePageState extends State<MyHomePage> {
       appBar: AppBar(
         title: Text(widget.title),
       ),
-      body: Center(
-        child: Column(children: [
-          Row(
-            children: const [Text('Blazer')],
-          ),
-          Row(
-            children: const [Text('data')],
-          )
-        ]),
-      ),
+      body: const Home(),
       // This trailing comma makes auto-formatting nicer for build methods.
     );
   }
